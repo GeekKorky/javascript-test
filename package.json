@@ -1,0 +1,14 @@
+{
+  "name": "library-test",
+  "version": "1.0.0",
+  "description": "javascript libray with testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kirk Alain Andes",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
